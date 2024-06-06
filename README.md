@@ -48,7 +48,7 @@ La app no es compatible con algunos dispositivos, se tiene que revisar la compat
 Descarga del proyecto.
 
 Deberás descargar todo el proyecto para que funcione correctamente en Unity desde GitHub, el repositorio con el sistema está en el siguiente enlace:
-
+https://github.com/Adrianwo76/App_Granja_de_Criaturas_03.git
 
 Una vez que te encuentres en el repositorio, le darás clic al botón de “Código” y posteriormente al de “Descargar ZIP”
 
